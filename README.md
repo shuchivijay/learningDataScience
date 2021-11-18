@@ -1,2 +1,2 @@
 # learningDataScience
-My journey of learning towards data science
+My journey towards learning data science
